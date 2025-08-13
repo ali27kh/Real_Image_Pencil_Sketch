@@ -154,10 +154,24 @@ predicted_sketches = model.predict(test_images)
 ---
 
 ## 📊 Results
-- **Classical Approach**: ![Classical Approach Results](result_classical_approaches.png)
-- **Deep Learning Model**: ![Model Results](result_model.png)
-- **Comparison**: ![Comparison](comparaison.png)
-- **Training Loss**: ![Loss Curve](loss_curve.png)
+- **Classical Approach**:  
+  ![Classical Approach Results](result_classical_approaches.png)
+
+  <br>
+
+- **Deep Learning Model Results**:  
+  ![Model Results](result_model.png)
+
+  <br>
+
+- **Comparison**:  
+  ![Comparison](comparaison.png)
+
+  <br>
+
+- **Training Loss**:  
+  ![Loss Curve](loss_curve.png)
+
 
 ---
 
