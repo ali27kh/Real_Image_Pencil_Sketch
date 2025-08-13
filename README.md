@@ -198,7 +198,6 @@ pip install opencv-python numpy matplotlib tensorflow keras
 - The **classical approach** produces sketches using denoising, thresholding, and dodge effect but lacks fine details.
 - The **deep learning model** generates more realistic sketches with better edge preservation, thanks to its encoder-decoder architecture.
 - The comparison image highlights the deep learning model's superior detail retention over classical methods.
-- Normalization and consistent image sizing (224x224) are critical for model performance.
 
 ---
 
